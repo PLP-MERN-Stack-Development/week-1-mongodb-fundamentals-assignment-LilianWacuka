@@ -2,6 +2,10 @@
 # MongoDB Fundamentals Assignment
 
 This assignment focuses on learning MongoDB fundamentals including setup, CRUD operations, advanced queries, aggregation pipelines, and indexing.
+## How To run scripts
+1. install the modules. 
+2. npm init -y npm install mongodb
+3. run on the terminal node queries.js
 
 ## Assignment Overview
 
